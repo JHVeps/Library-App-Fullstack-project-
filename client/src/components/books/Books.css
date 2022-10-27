@@ -1,0 +1,14 @@
+.books {
+  color: white;
+  margin-left: 20px;
+}
+
+.books__button {
+  padding: 16px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #e50914;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}

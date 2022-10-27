@@ -1,0 +1,22 @@
+.privateRoute {
+  color: #fff;
+  max-width: 500px;
+  padding: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(0, 0, 0, 0.85);
+}
+
+.privateRoute > h2 {
+  text-align: left;
+}
+
+.privateRoute > button {
+  padding: 16px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #e50914;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}

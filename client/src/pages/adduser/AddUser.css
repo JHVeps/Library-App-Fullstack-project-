@@ -1,0 +1,17 @@
+.adduser {
+  color: #fff;
+  max-width: 500px;
+  padding: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(0, 0, 0, 0.85);
+}
+
+.adduser > form > h1 {
+  text-align: left;
+  margin-bottom: 25px;
+}
+
+.adduser > form > h4 {
+  text-align: left;
+}
